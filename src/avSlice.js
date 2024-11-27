@@ -34,7 +34,6 @@ export const avSlice = createSlice({
         cost: 80,
         quantity: 0,
     },
-
   ],
 
 
